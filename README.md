@@ -13,7 +13,7 @@ This repository provides a **Serenity Index Strategy** implementation for ProRea
 - [Strategy Logic](#strategy-logic)
 - [Installation](#installation)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 
@@ -142,6 +142,3 @@ Contributions are welcome! To contribute:
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Open a Pull Request.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
